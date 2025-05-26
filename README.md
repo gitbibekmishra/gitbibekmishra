@@ -6,11 +6,12 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Open%20to-Work-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Freelancer-Available-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Top%20Projects-In%20Pinned-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/gitbibekmishra?label=Follow&style=for-the-badge" />
+  <kbd><span style="background-color:#222; color:#0f0; padding:8px; border-radius:5px;">🟢 OPEN TO WORK</span></kbd>
+  <kbd><span style="background-color:#222; color:#00d4ff; padding:8px; border-radius:5px;">💼 FREELANCER</span></kbd>
+  <kbd><span style="background-color:#222; color:#ff9900; padding:8px; border-radius:5px;">📌 IN PINNED</span></kbd>
+  <kbd><span style="background-color:#222; color:#fff700; padding:8px; border-radius:5px;">⭐ TOP PROJECTS</span></kbd>
 </p>
+
 
 ---
 
