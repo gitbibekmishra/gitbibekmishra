@@ -41,8 +41,9 @@
 | Project | Description | Link |
 |--------|-------------|------|
 | 🚀 **Pushfolio** | Auto GitHub portfolio generator with templates, plugins, and AI bios | [View Project](https://github.com/gitbibekmishra/pushfolio) |
-| 🧠 **Zybooks AI Helper** | Chrome extension that solves zyBooks with Gemini AI | [View Project](https://github.com/gitbibekmishra/zybooks-ai-helper) |
-| 🛠️ **Discord Server Setup** | Fully branded and automated Discord servers for clients | *Coming soon on Fiverr* |
+| 🛠️ **Discord Server Setup** | Fully branded and automated Discord servers for clients | [View on Fiverr](https://www.fiverr.com/bibekk_mishra/create-and-fully-customize-your-professional-discord-server) |
+| ⚙️ **DevKickstart** | Python-based CLI tool that sets up your dev environment in one command | [View Project](https://github.com/gitbibekmishra/devkickstart) |
+
 
 ---
 
