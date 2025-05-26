@@ -6,22 +6,20 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/acervenky/animated-github-badges" target="_blank">
-    <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif" alt="Pro Badge" height="40" />
-  </a>
-  <a href="https://github.com/acervenky/animated-github-badges" target="_blank">
-    <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/follow-me.gif" alt="Follow Me" height="40" />
-  </a>
-  <a href="https://github.com/acervenky/animated-github-badges" target="_blank">
-    <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/security.gif" alt="Security" height="40" />
-  </a>
-  <a href="https://github.com/acervenky/animated-github-badges" target="_blank">
-    <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsor.gif" alt="Sponsor" height="40" />
-  </a>
-  <a href="https://github.com/acervenky/animated-github-badges" target="_blank">
-    <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/verified.gif" alt="Verified" height="40" />
-  </a>
+  <kbd style="background-color:#1a1a1a; border:1px solid #2c2c2c; border-radius:8px; padding:8px 14px; color:#7CFC00; font-size:14px;">
+    🟢 OPEN TO WORK
+  </kbd>
+  <kbd style="background-color:#1a1a1a; border:1px solid #2c2c2c; border-radius:8px; padding:8px 14px; color:#FF6F61; font-size:14px;">
+    💼 FREELANCER
+  </kbd>
+  <kbd style="background-color:#1a1a1a; border:1px solid #2c2c2c; border-radius:8px; padding:8px 14px; color:#FF69B4; font-size:14px;">
+    📌 IN PINNED
+  </kbd>
+  <kbd style="background-color:#1a1a1a; border:1px solid #2c2c2c; border-radius:8px; padding:8px 14px; color:#FFD700; font-size:14px;">
+    ⭐ TOP PROJECTS
+  </kbd>
 </p>
+
 
 
 
