@@ -6,11 +6,20 @@
 </p>
 
 <p align="center">
-  <kbd><span style="background-color:#222; color:#0f0; padding:8px; border-radius:5px;">🟢 OPEN TO WORK</span></kbd>
-  <kbd><span style="background-color:#222; color:#00d4ff; padding:8px; border-radius:5px;">💼 FREELANCER</span></kbd>
-  <kbd><span style="background-color:#222; color:#ff9900; padding:8px; border-radius:5px;">📌 IN PINNED</span></kbd>
-  <kbd><span style="background-color:#222; color:#fff700; padding:8px; border-radius:5px;">⭐ TOP PROJECTS</span></kbd>
+  <kbd style="background-color:#1a1a1a; border:1px solid #2c2c2c; border-radius:8px; padding:8px 14px; color:#7CFC00; font-size:14px;">
+    🟢 OPEN TO WORK
+  </kbd>
+  <kbd style="background-color:#1a1a1a; border:1px solid #2c2c2c; border-radius:8px; padding:8px 14px; color:#FF6F61; font-size:14px;">
+    💼 FREELANCER
+  </kbd>
+  <kbd style="background-color:#1a1a1a; border:1px solid #2c2c2c; border-radius:8px; padding:8px 14px; color:#FF69B4; font-size:14px;">
+    📌 IN PINNED
+  </kbd>
+  <kbd style="background-color:#1a1a1a; border:1px solid #2c2c2c; border-radius:8px; padding:8px 14px; color:#FFD700; font-size:14px;">
+    ⭐ TOP PROJECTS
+  </kbd>
 </p>
+
 
 
 ---
